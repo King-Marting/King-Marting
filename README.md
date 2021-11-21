@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @King-Marting
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me zhangfei941206@163.com
 
